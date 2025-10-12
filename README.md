@@ -28,5 +28,5 @@ Once the customers have been created, the next priority is to design products th
 
 Here is an example of the form of a [water bottle](Screenshots/Bottled_Water.png).
 
-I created in total 20 different products, each with a distinct image to distinguish it from the other. These products range from Food Items, Beverages, Cleaning & Hygiene Supplies, to Packaging & Disposable Items.
+I created in total [20 different products](Screenshots/Products_list.png), each with a [distinct image to distinguish it from the other](Screenshots/Products_list_images.png). These products range from Food Items, Beverages, Cleaning & Hygiene Supplies, to Packaging & Disposable Items.
 
