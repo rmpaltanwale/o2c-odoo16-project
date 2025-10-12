@@ -18,3 +18,5 @@ The first step of this process is to create customers who will place the orders 
 Here is an example of an [individual customer’s form](Screenshots/Individual_customer.png).
 
 Here is an example of a [business customer’s form](Screenshots/Business_customer.png).
+
+For this business case, I created 10 individual customers and 10 business customers.
