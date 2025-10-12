@@ -11,3 +11,6 @@ The implementation will be carried out with an Order 2 Cash process. The order t
 4. [Processing & Delivery](#4️⃣-processing--delivery)
 5. [Invoicing & Payment Collection](#5️⃣-invoicing--payment-collection)
 ### 1️⃣ Customer
+  Contacts (module) → Create the customer
+The first step of this process is to create customers who will place the orders for the goods and services provided by the company. Banana Inc. has two types of customers: individual and business. My O2C model handles both of them via the Contacts module. The “Customer” object has multiple fields, such as Name, Phone, Email and City etc.
+Here is an example of an individual customer’s form.
