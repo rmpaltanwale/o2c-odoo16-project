@@ -11,6 +11,7 @@
   - [Customer](#1️⃣-customer)
   - [Products](#2️⃣-products)
   - [Quotation & Sales Orders](#3️⃣-quotation--sales-orders)
+  - [Processing & Delivery](#4️⃣-processing--delivery)
 
 ## Background Business Case
 
@@ -67,6 +68,7 @@ The next step is to click on the “confirm” button on the top left; this [con
 Then, update the [quantities in sales order](Screenshots/SO_form_quantity_updated.png).
 
 ### 4️⃣ Processing & Delivery
+
 The sales orders having been created, the next step is to validate them. Click on the [delivery button](Screenshots/Delivery_symbol.png) with the truck symbol on it.
 
 This opens the [delivery order form](Screenshots/Delivery_order_form.png).
