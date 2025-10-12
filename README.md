@@ -20,3 +20,5 @@ Here is an example of an [individual customer’s form](Screenshots/Individual_c
 Here is an example of a [business customer’s form](Screenshots/Business_customer.png).
 
 For this business case, I created [10 individual customers and 10 business customers](Screenshots/Customer_list.png).
+
+### 2️⃣ Products
