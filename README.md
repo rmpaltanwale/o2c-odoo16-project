@@ -14,3 +14,4 @@ The implementation will be carried out with an Order 2 Cash process. The order t
 Contacts (module) → Create the customer
 The first step of this process is to create customers who will place the orders for the goods and services provided by the company. Banana Inc. has two types of customers: individual and business. My O2C model handles both of them via the Contacts module. The “Customer” object has multiple fields, such as Name, Phone, Email and City etc.
 Here is an example of an [individual customer’s form](Screenshots/Individual_customer.png).
+Here is an example of a [business customer’s form](Screenshots/Business_customer.png).
