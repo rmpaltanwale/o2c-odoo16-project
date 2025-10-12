@@ -32,3 +32,5 @@ I created in total [20 different products](Screenshots/Products_list.png), each 
 
 ### 3️⃣ Quotation & Sales Orders
 Once the products have been created, the company’s next prerogative is to create the sales order. There are multiple steps to this process, starting with creating quotations. Go to the Sales module; it opens automatically at the Quotations page. Click on New, and it displays a form. This form has the following fields: Customer, Quotation Template, Expiration, Payment Terms, Products, Quantity, Unit Price etc.
+
+Here’s an example of a [quotation’s form](Screenshots/Quotation_form.png).
