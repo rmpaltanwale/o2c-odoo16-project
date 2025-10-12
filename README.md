@@ -41,3 +41,5 @@ Then, update the [quantities in sales order](Screenshots/SO_form_quantity_update
 
 ### 4️⃣ Processing & Delivery
 The sales orders having been created, the next step is to validate them. Click on the [delivery button](Delivery_symbol.png) with the truck symbol on it.
+
+This opens the [delivery order form](Delivery_order_form.png).
