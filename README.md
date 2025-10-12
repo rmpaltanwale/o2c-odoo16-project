@@ -10,4 +10,4 @@ The implementation will be carried out with an Order 2 Cash process. The order t
 3. [Quotation & Sales Orders](#3️⃣-quotation--sales-orders)
 4. [Processing & Delivery](#4️⃣-processing--delivery)
 5. [Invoicing & Payment Collection](#5️⃣-invoicing--payment-collection)
-
+### 1️⃣ Customer
