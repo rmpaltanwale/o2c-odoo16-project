@@ -36,3 +36,5 @@ Once the products have been created, the company’s next prerogative is to crea
 Here’s an example of a [quotation’s form](Screenshots/Quotation_form.png).
 
 The next step is to click on the “confirm” button on the top left; this [converts the quotation into a sales order](Screenshots/Sales_order_form.png).
+
+Then, update the [quantities in sales order](Screenshots/SO_form_quantity_updated.png).
