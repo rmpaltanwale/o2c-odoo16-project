@@ -45,3 +45,5 @@ The sales orders having been created, the next step is to validate them. Click o
 This opens the [delivery order form](Screenshots/Delivery_order_form.png).
 
 [Update the quantities](Screenshots/Deliver_quantity.png) in the “Done” column to match the corresponding quantities in the “Demand” column.
+
+Now, [click validate (top left)](Screenshots/Delivery_validate.png). This completes the delivery process.
