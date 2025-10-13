@@ -55,9 +55,11 @@ Here is an example of the form of a water bottle:
 
 ![water bottle](./Screenshots/Bottled_Water.png "Bottled Water").
 
-I created in total 20 different products, each with a [distinct image to distinguish it from the other](Screenshots/Products_list_images.png). These products range from Food Items, Beverages, Cleaning & Hygiene Supplies, to Packaging & Disposable Items.
+I created in total 20 different products, each with a distinct image to distinguish it from the other. 
 
 ![20 different products](./Screenshots/Products_list.png "Products List")
+
+These products rangefrom Food Items, Beverages, Cleaning & Hygiene Supplies, to Packaging & Disposable Items.
 
 ![distinct image to distinguish it from the other](./Screenshots/Products_list_images.png "Products List Images")
 
