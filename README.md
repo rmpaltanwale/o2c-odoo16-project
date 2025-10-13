@@ -103,15 +103,23 @@ Now, click validate (top left). This completes the delivery process.
 Now, the final step. The delivery of the goods to the customer is not enough; the payment must be collected to complete the O2C process. 
 To do this, open the Sales module, and click on the To Invoice option on the purple ribbon.
 
-Clicking on To Invoice will open a dropdown list with the following 2 options: Orders to Invoice and Orders to Upsell. Click on Orders to Invoice. 
+![To invoice](./Screenshots/To_invoice.png)
 
-This shows the Sales Order we delivered earlier. Click on it.
+Clicking on To Invoice will open a dropdown list with the following 2 options: Orders to Invoice and Orders to Upsell. Click on Orders to Invoice. This shows the Sales Order we delivered earlier. Click on it.
+
+![Dropdown list](./Screenshots/Dropdown_list_invoice.png)
 
 The invoice form opens. Here, click on Create invoice (top left).
 
+![Invoice form](./Screenshots/Invoice_form.png)
+
 A prompt dialog box opens. Keep regular invoice option selected and then proceed with “Create and View Invoice”.
 
+![Create and View Invoice](./Screenshots/Create_invoice_dialog_box.png)
+
 Draft invoice is created. To proceed, click confirm.
+
+![Confirm draft invoice](./Screenshots/Confirm_draft_invoice.png)
 
 Customer invoice has been posted. Click on Register Payment.
 
