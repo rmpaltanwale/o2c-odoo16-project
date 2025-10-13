@@ -118,4 +118,5 @@ Customer invoice has been posted. Click on Register Payment.
 Dialog box opens again. Click on Create Payment.
 
 Payment has been processed and completed.
+
 ![Payment processed](./Screenshots/Customer_invoice_paid.png)
