@@ -12,6 +12,7 @@
   - [Products](#2️⃣-products)
   - [Quotation & Sales Orders](#3️⃣-quotation--sales-orders)
   - [Processing & Delivery](#4️⃣-processing--delivery)
+  - [Invoicing & Payment collection](#5️⃣-invoicing-&-payment-collection)
 
 ## Background Business Case
 
