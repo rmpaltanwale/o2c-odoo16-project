@@ -96,4 +96,6 @@ Update the quantities in the “Done” column to match the corresponding quanti
 
 Now, click validate (top left). This completes the delivery process.
 
+![Click validate (top left)](./Screenshots/Delivery_validate.png)
+
 ![click validate (top left)](./Screenshots/Delivery_validate.png)
