@@ -115,9 +115,11 @@ Draft invoice is created. To proceed, click confirm.
 
 Customer invoice has been posted. Click on Register Payment.
 
+
+
 Dialog box opens again. Click on Create Payment.
 
-![Create payment](./Screenshots/Register_payment.png)
+
 
 Payment has been processed and completed.
 
