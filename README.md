@@ -51,9 +51,15 @@ Inventory (module) → Products (drop down list) → Products (option) → New
 
 Once the customers have been created, the next priority is to design products that will be ordered by said customers and that Banana Inc. will deliver to them for the transaction. For this purpose, access the Inventory module; open the Products drop down list, select the option Products from there, and then click on New. This opens a form which provides the following fields: Product Name, Internal Reference, Sales Price, Cost, Quantity On Hand, Forecasted Quantity, Unit of Measure. There is also the option of including images for each given product.
 
-Here is an example of the form of a ![water bottle](./Screenshots/Bottled_Water.png "Bottled Water").
+Here is an example of the form of a water bottle:
 
-I created in total [20 different products](Screenshots/Products_list.png), each with a [distinct image to distinguish it from the other](Screenshots/Products_list_images.png). These products range from Food Items, Beverages, Cleaning & Hygiene Supplies, to Packaging & Disposable Items.
+![water bottle](./Screenshots/Bottled_Water.png "Bottled Water").
+
+I created in total 20 different products, each with a [distinct image to distinguish it from the other](Screenshots/Products_list_images.png). These products range from Food Items, Beverages, Cleaning & Hygiene Supplies, to Packaging & Disposable Items.
+
+![20 different products](./Screenshots/Products_list.png "Products List")
+
+![distinct image to distinguish it from the other](./Screenshots/Products_list_images.png "Products List Images")
 
 ### 3️⃣ Quotation & Sales Orders
 
