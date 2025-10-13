@@ -81,10 +81,18 @@ Then, update the quantities in sales order.
 
 ### 4️⃣ Processing & Delivery
 
-The sales orders having been created, the next step is to validate them. Click on the [delivery button](Screenshots/Delivery_symbol.png) with the truck symbol on it.
+The sales orders having been created, the next step is to validate them. Click on the delivery button with the truck symbol on it.
 
-This opens the [delivery order form](Screenshots/Delivery_order_form.png).
+![delivery button](./Screenshots/Delivery_symbol.png)
 
-[Update the quantities](Screenshots/Delivery_quantity.png) in the “Done” column to match the corresponding quantities in the “Demand” column.
+This opens the delivery order form.
 
-Now, [click validate (top left)](Screenshots/Delivery_validate.png). This completes the delivery process.
+![delivery order form](./Screenshots/Delivery_order_form.png)
+
+Update the quantities in the “Done” column to match the corresponding quantities in the “Demand” column.
+
+![Update the quantities](./Screenshots/Delivery_quantity.png)
+
+Now, click validate (top left). This completes the delivery process.
+
+![click validate (top left)](./Screenshots/Delivery_validate.png)
