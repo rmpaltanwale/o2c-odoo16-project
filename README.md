@@ -98,3 +98,5 @@ Now, click validate (top left). This completes the delivery process.
 
 ![Click validate (top left)](./Screenshots/Delivery_validate.png)
 
+### 5️⃣ Invoicing & Payment Collection
+
