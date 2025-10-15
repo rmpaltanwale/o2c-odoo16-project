@@ -135,6 +135,8 @@ Then, update the quantities in sales order.
 
 ![quantities in sales order](./Screenshots/SO_form_quantity_updated.png)
 
+This was the stage where Odoo transitioned from planning to commitment — quotations represent proposals, and sales orders formalize them. I ensured every quotation matched real customer types to make the O2C cycle realistic.
+
 ### 4️⃣ Processing & Delivery
 
 The sales orders having been created, the next step is to validate them. Click on the delivery button with the truck symbol on it.
