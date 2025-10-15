@@ -24,7 +24,7 @@ The goal of this project is to establish a new workflow for processing, invoicin
 
 ## Implementation
 
-The implementation will be carried out with an Order 2 Cash process. The order to cash (O2C) process is the entire business workflow from the moment a customer places an order to when the company receives and records the final payment.
+The implementation will be carried out with an Order 2 Cash process. The order to cash (O2C) process is the entire business workflow from the moment a customer places an order to when the company receives and records the final payment. The following modules/apps are used:
 
 ## Process
 
