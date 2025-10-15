@@ -106,7 +106,22 @@ I designed these categories to simulate inventory management complexity. The use
 
 ### 3️⃣ Quotation & Sales Orders
 
-Once the products have been created, the company’s next prerogative is to create the sales order. There are multiple steps to this process, starting with creating quotations. Go to the Sales module; it opens automatically at the Quotations page. Click on New, and it displays a form. This form has the following fields: Customer, Quotation Template, Expiration, Payment Terms, Products, Quantity, Unit Price etc.
+This stage connected customers and products into real transactions.
+
+For each sale, I:
+
+1. Created a Quotation.
+
+2. Entered the Customer and selected Products with quantity and pricing.
+
+3. Set Payment Terms (e.g., Immediate or 15 Days).
+
+4. Saved and reviewed the quotation for accuracy.
+
+5. Clicked Confirm to convert it into a Sales Order.
+
+After confirming, I reviewed each sales order to ensure all ordered quantities and prices
+matched expectations.
 
 Here’s an example of a quotation’s form:
 
