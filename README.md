@@ -34,7 +34,7 @@ The implementation will be carried out with an Order 2 Cash process. The order t
 
 Contacts (module) → Create the customer
 
-The first step of this process is to create customers who will place the orders for the goods and services provided by the company. Banana Inc. has two types of customers: individual and business. My O2C model handles both of them via the Contacts module. The “Customer” object has multiple fields, such as Name, Phone, Email and City etc.
+My first step was to create customer records - the foundation of the O2C cycle. In Odoo, every sales transaction must be linked to a Contact, representing either an individual or a business entity.
 
 #### Individual Customer Example Form
 
@@ -47,6 +47,18 @@ The first step of this process is to create customers who will place the orders 
 For this business case, I created 10 individual customers and 10 business customers:
 
 ![Customer List](./Screenshots/Customer_list.png "Customer List")
+
+Each customer profile included details such as:
+
+- Name
+
+- Street / City / State / ZIP
+
+- Email / Phone
+
+- Payment Terms
+
+I treated this as the foundation of the O2C workflow - accurate customer data ensures proper invoicing, reporting, and follow-up communication. I wanted to capture the diversity of a mixed clientele, so both individuals and companies were included.
 
 ### 2️⃣ Products
 
