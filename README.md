@@ -89,6 +89,7 @@ Categories created:
 3. Cleaning & Hygiene Supplies - Gloves, Sanitizers, Sprays
 
 4. Packaging & Disposable Items - Takeaway Bags, Paper Straws
+
 Here is an example of the form of a water bottle:
 
 ![water bottle](./Screenshots/Bottled_Water.png "Bottled Water").
