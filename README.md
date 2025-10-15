@@ -64,8 +64,31 @@ I treated this as the foundation of the O2C workflow - accurate customer data en
 
 Inventory (module) → Products (drop down list) → Products (option) → New
 
-Once the customers have been created, the next priority is to design products that will be ordered by said customers and that Banana Inc. will deliver to them for the transaction. For this purpose, access the Inventory module; open the Products drop down list, select the option Products from there, and then click on New. This opens a form which provides the following fields: Product Name, Internal Reference, Sales Price, Cost, Quantity On Hand, Forecasted Quantity, Unit of Measure. There is also the option of including images for each given product.
+Once customers were in place, my next goal was to define what Banana Inc. sells. The Products section in Odoo allows configuration of items that can be sold, purchased, or stored in inventory.
 
+Each product record included:
+
+- Product Name and Internal Reference (e.g., BW001 for Bottled Water)
+
+- Product Type (Storable)
+
+- Sales Price and Cost
+
+- Quantity on Hand / Forecasted Quantity
+
+- Unit of Measure (e.g., Unit, Dozen)
+
+- Image for visual distinction
+
+Categories created:
+
+1. Food Items - Burgers, Nuggets, Muffins
+
+2. Beverages - Bottled Water, Soft Drinks
+
+3. Cleaning & Hygiene Supplies - Gloves, Sanitizers, Sprays
+
+4. Packaging & Disposable Items - Takeaway Bags, Paper Straws
 Here is an example of the form of a water bottle:
 
 ![water bottle](./Screenshots/Bottled_Water.png "Bottled Water").
