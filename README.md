@@ -98,9 +98,11 @@ I created in total 20 different products, each with a distinct image to distingu
 
 ![20 different products](./Screenshots/Products_list.png "Products List")
 
-These products rangefrom Food Items, Beverages, Cleaning & Hygiene Supplies, to Packaging & Disposable Items.
+These products range from Food Items, Beverages, Cleaning & Hygiene Supplies, to Packaging & Disposable Items.
 
 ![distinct image to distinguish it from the other](./Screenshots/Products_list_images.png "Products List Images")
+
+I designed these categories to simulate inventory management complexity. The use of internal references and categories helps future automation, such as reordering and reporting. Including images added realism and professional presentation. 
 
 ### 3️⃣ Quotation & Sales Orders
 
