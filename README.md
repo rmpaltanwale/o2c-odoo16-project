@@ -134,17 +134,9 @@ The sales orders having been created, the next step is to validate them. Click o
 Once a Sales Order was confirmed, Odoo automatically generated a Delivery Order.
 Here’s how I processed each one:
 
-1. Opened the Delivery Order by clicking the truck icon on the Sales Order.
+Opened the Delivery Order by clicking the truck icon on the Sales Order.
 
 ![delivery button](./Screenshots/Delivery_symbol.png)
-
-2. Verified the Demand and Reserved quantities in the Operations tab.
-
-3. Updated the Done column to match the demand - ensuring accurate stock movement.
-
-4. Clicked Validate to finalize delivery.
-
-
 
 This opens the delivery order form.
 
@@ -157,6 +149,8 @@ Update the quantities in the “Done” column to match the corresponding quanti
 Now, click validate (top left). This completes the delivery process.
 
 ![Click validate (top left)](./Screenshots/Delivery_validate.png)
+
+I paid close attention to inventory synchronization here. My goal was to ensure that deliveries only occurred for available stock. This step illustrated how Odoo ensures supply chain accuracy by automatically adjusting stock levels post-delivery.
 
 ### 5️⃣ Invoicing & Payment Collection
 
@@ -192,3 +186,5 @@ Dialog box opens again. Click on Create Payment.
 Payment has been processed and completed.
 
 ![Payment processed](./Screenshots/Customer_invoice_paid.png)
+
+This stage tied everything together — the transaction was now complete financially and operationally. Registering payments gave me firsthand insight into how Odoo updates accounting entries, customer ledgers, and order statuses in real-time.
