@@ -110,17 +110,9 @@ This stage connected customers and products into real transactions.
 
 For each sale, I:
 
-1. Created a Quotation. Here’s an example of a quotation’s form:
+Created a Quotation. Here’s an example of a quotation’s form:
 
 ![quotation form](./Screenshots/Quotation_form.png "Quotation Form")
-
-2. Entered the Customer and selected Products with quantity and pricing.
-
-3. Set Payment Terms (e.g., Immediate or 15 Days).
-
-4. Saved and reviewed the quotation for accuracy.
-
-5. Clicked Confirm to convert it into a Sales Order.
 
 After confirming, I reviewed each sales order to ensure all ordered quantities and prices
 matched expectations.
