@@ -131,7 +131,20 @@ This was the stage where Odoo transitioned from planning to commitment — quota
 
 The sales orders having been created, the next step is to validate them. Click on the delivery button with the truck symbol on it.
 
+Once a Sales Order was confirmed, Odoo automatically generated a Delivery Order.
+Here’s how I processed each one:
+
+1. Opened the Delivery Order by clicking the truck icon on the Sales Order.
+
 ![delivery button](./Screenshots/Delivery_symbol.png)
+
+2. Verified the Demand and Reserved quantities in the Operations tab.
+
+3. Updated the Done column to match the demand - ensuring accurate stock movement.
+
+4. Clicked Validate to finalize delivery.
+
+
 
 This opens the delivery order form.
 
